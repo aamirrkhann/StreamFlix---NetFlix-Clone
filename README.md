@@ -1,2 +1,2 @@
 # StreamFlix---NetFlix-Clone
-This design based on like NetFlix by using html, CSS and some small Javascript with fully responsive.
+This design is basically clone based on like NetFlix frontent interface by using html, CSS and some small Javascript with fully responsive.
